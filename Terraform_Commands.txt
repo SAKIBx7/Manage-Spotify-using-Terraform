@@ -1,0 +1,8 @@
+Terraform Commands that I used to push my Playlist into Spotify
+
+•terraform init  --> To download all the dependency connections between the provider.
+ 
+•terraform plan -->  To check everything is Working Fine.
+
+•terraform apply   (or)   terraform apply -auto-approve  --> To Apply the Changes.
+ 
